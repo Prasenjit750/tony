@@ -1,0 +1,27 @@
+@media only screen and (max-width: 1024px) {
+   .home-banner-content{
+       width: 380px;
+   }
+   .nav.about-social-icon {
+       top: 34px;
+       background-color: white;
+       width: 55px;
+       height: 50%;
+    }
+    .about-content {width: 430px;}
+    .skill-var {width: 92%;}
+    .col-md-6 .single-feature-box .feature-box {width: 85%;}
+    .skill-area .row.side {margin-left: 25px;}
+    .skill-var {width: 88%;}
+    .skill-heading {margin-left: 40px;}
+    .skill-var {margin-left: 40px;}
+    .single-feature-box{margin-bottom: 15px;}
+    .single-testimonials {width: 425px;height: 255px;} 
+    .row {width: 920px;}
+    .row{display: flex;flex-wrap: wrap;margin-left: -15px;margin-right: -15px;width: 100%;}
+    .row.about-list {width: 126%;}
+  }
+
+@media only screen and (max-width: 768px) {
+    .row {min-width: 768px;}
+   }
